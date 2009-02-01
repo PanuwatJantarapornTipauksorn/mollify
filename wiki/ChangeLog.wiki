@@ -1,6 +1,10 @@
 #summary Mollify project change log
 #labels Phase-Deploy,Featured
 
+=== Version 0.6.3 ===
+  * Support for folder actions (create, rename and delete folders)
+  * Rewritten css class naming
+
 === Version 0.6.2 ===
   * Possibility to define backend php files location (for more information, see [http://code.google.com/p/mollify/wiki/Installation Installation wiki page], _Modifying installation_)
 
@@ -16,5 +20,4 @@
   * Added user logout action when user accounts are enabled
   * File upload fix for IE
 
-=== Version 0.5 ===
-  * Support for file upload progress display
+=== Version
